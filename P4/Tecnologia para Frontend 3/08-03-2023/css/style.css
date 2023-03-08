@@ -1,0 +1,15 @@
+/* 
+#x {background: green;}  para acessar o id
+.container{background: brown;} para a class
+.container h1{color: white;} para acessar o h1
+.container h2{color: blue;} para acessar o h2
+*/
+    .container{
+        background: brown;
+    }
+    .container h1{
+        color: white;
+    }
+    .container h2{
+        color: blue;
+    }
